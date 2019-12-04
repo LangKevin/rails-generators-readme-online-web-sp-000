@@ -13,7 +13,7 @@ As nice as it is to use the generators to save time, they also provide some addi
 * They follow Rails best practices, which includes utilizing RESTful naming patterns, removing duplicate code, using partials and a number of other best of breed design patterns (if you don't know what all of these are, don't worry, we will cover them shortly).
 
 
-## Abusing Generators
+## Abusing Generators 
 
 So if generators are so amazing, why wouldn't we always want to use them? I'll answer your question with another question: a chainsaw is a wonderful tool, so why wouldn't you use it for every job you have around the house? The answer to both questions is the same: great tools are only great tools if they are matched with the right task. In the same way that you should only use a chainsaw when you have a job that requires it, generators should only be used when they are needed.
 
